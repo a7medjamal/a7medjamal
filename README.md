@@ -30,7 +30,7 @@ I specialize in building innovative, user-friendly mobile solutions. With certif
   </a>
   <a href="https://www.codechef.com/users/a7med_jamal" target="blank">
     <!-- CodeChef icon with white background -->
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a7med_jamal" height="40" width="40" style="background-color: white; padding: 5px; border-radius: 50%;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a7med_jamal" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 100%;" />
   </a>
   <a href="https://codeforces.com/profile/error_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error_" height="40" width="40" />
