@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Jamal Sultan</h1>
-<h3 align="center">As a Mobile Application Developer and a final-year Computer Science student, I specialize in building innovative, user-friendly mobile solutions. With certifications in Flutter Development, I have a strong foundation in cross-platform app development. Additionally, my experience in competitive programming has sharpened my problem-solving skills and algorithmic thinking. I am passionate about exploring new technologies, staying ahead of industry trends, and continuously improving my skills. My goal is to grow as a developer and make meaningful contributions to my team and organization.</h3>
+<h3 align="center">As a Mobile Application Developer and a final-year Computer Science student, I specialize in building innovative, user-friendly mobile solutions. With certifications in Flutter Development, I have a strong foundation in cross-platform app development. Additionally, my experience in competitive programming has sharpened my problem-solving skills and algorithmic thinking. I am passionate about exploring new technologies, staying ahead of industry trends, and continuously improving my skills. I aim to grow as a developer and contribute meaningfully to my team and organization.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7medjamal" alt="a7medjamal" /></a> </p>
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/a7med_jamal_211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a7medjamalsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/a7med_jamal" target="blank"><img align="center" src="https://ibb.co/sJ2Ncs86" alt="a7med_jamal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/a7med_jamal" target="blank"><img align="center" src="https://ibb.co/sJ2Ncs86" alt="a7med_jamal" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/error_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmedjmal20003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="30" width="40" /></a>
 <a href="https://discord.gg/a7med_jamal_sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a7med_jamal_sultan" height="30" width="40" /></a>
