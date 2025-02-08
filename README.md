@@ -32,7 +32,7 @@ I specialize in building innovative, user-friendly mobile solutions. With certif
   </a>
   <!-- CodeChef Icon with white background -->
   <a href="https://www.codechef.com/users/a7med_jamal" target="blank">
-    <img src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/a5684bbf2a4d3305ab9e2a3f9c5589654e877b7a/codechef.svg" alt="a7med_jamal" height="50" width="50" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
+    <img src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/a5684bbf2a4d3305ab9e2a3f9c5589654e877b7a/codechef.svg" alt="a7med_jamal" height="45" width="45" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
   <!-- Codeforces Icon -->
   <a href="https://codeforces.com/profile/error_" target="blank">
