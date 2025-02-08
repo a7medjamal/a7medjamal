@@ -22,24 +22,29 @@ I specialize in building innovative, user-friendly mobile solutions. With certif
 ### Connect with me:
 
 <p align="center">
+  <!-- Twitter Icon -->
   <a href="https://twitter.com/a7med_jamal_211" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/a7medjamalsultan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  <!-- CodeChef Icon with white background -->
   <a href="https://www.codechef.com/users/a7med_jamal" target="blank">
-    <!-- CodeChef icon with white background -->
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a7med_jamal" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 100%;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="a7med_jamal" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  <!-- Codeforces Icon -->
   <a href="https://codeforces.com/profile/error_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error_" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error_" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  <!-- LeetCode Icon -->
   <a href="https://www.leetcode.com/ahmedjmal20003" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  <!-- Discord Icon -->
   <a href="https://discord.gg/a7med_jamal_sultan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a7med_jamal_sultan" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a7med_jamal_sultan" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
 </p>
 
