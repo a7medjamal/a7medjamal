@@ -27,7 +27,7 @@ I specialize in building innovative, user-friendly mobile solutions. With certif
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
   <!-- LinkedIn Icon -->
-  <a href="https://linkedin.com/in/a7medjamalsultan" target="blank">
+  <a href="https://linkedin.com/in/a7med-jamal-sultan" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="40" width="40" style="background-color: white; padding: 10px; border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
   <!-- CodeChef Icon with white background -->
