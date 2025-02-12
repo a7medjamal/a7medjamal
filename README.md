@@ -111,5 +111,5 @@ I specialize in building innovative, user-friendly mobile solutions. With certif
 ### 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medjamal&" alt="a7medjamal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medjamal" alt="a7medjamal" />
 </p>
