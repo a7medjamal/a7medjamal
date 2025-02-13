@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/a7med_jamal" target="blank"><img src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/a5684bbf2a4d3305ab9e2a3f9c5589654e877b7a/codechef.svg" alt="a7med_jamal" height="30" width="30"/></a>
 <a href="https://codeforces.com/profile/error_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmedjmal20003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="30" width="40" /></a>
-<a href="https://discord.gg/a7med_jamal_sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a7med_jamal_sultan" height="30" width="40" /></a>
+<a href="https://discord.gg/a7med_jamal_sultan" target="blank"><img align="center" src="https://gist.githubusercontent.com/a7medjamal/7c06ffa00e8de0325c4bc87c3b530b7c/raw/3a47ddaa22409de7fa31d9891815e63e67507a77/discord.svg" alt="a7med_jamal_sultan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
