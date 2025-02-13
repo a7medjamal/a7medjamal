@@ -33,62 +33,62 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="https://www.w3schools.com/cpp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.w3schools.com/cs/" target="_blank">
+  <a href="https://www.w3schools.com/cs/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://dart.dev" target="_blank">
+  <a href="https://dart.dev">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com/">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://firebase.google.com/">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://flutter.dev" target="_blank">
+  <a href="https://flutter.dev">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://postman.com" target="_blank">
+  <a href="https://postman.com">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30" />
   </a>
   <img width="12" />
   
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" />
   </a>
 </div>
