@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/a7medjamal?tab=repositories)
+- 👨‍💻 All of my projects are available **[here](https://github.com/a7medjamal?tab=repositories)**
 
 - 📫 How to reach me **ahmedjmal20003@gmail.com**
 
-- 📄 Know about my experiences at [My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)
+- 📄 Know about my experiences at **[My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
