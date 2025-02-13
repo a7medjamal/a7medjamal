@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/a7medjamal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=DFA330&background=FFFFFF00&center=true&multiline=true&width=436&height=80&lines=Hi%2C+I'm+Ahmed+Jamal+Sultan;Welcome+to+my+github+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=DFA330&background=FFFFFF00&center=true&multiline=true&width=436&height=70&lines=Hi%2C+I'm+Ahmed+Jamal+Sultan;Welcome+to+my+github+profile!" alt="Typing SVG" />
   </a>
 </p>
 
