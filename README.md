@@ -4,14 +4,14 @@
   </a>
 </p>
 
-<h3 align="left">I'm a Mobile Application Developer and a final-year Computer Science student, I specialize in building innovative, user-friendly mobile solutions. With certifications in Flutter Development, I have a strong foundation in cross-platform app development. Additionally, my experience in competitive programming has sharpened my problem-solving skills and algorithmic thinking. I am passionate about exploring new technologies, staying ahead of industry trends, and continuously improving my skills. I aim to grow as a developer and contribute meaningfully to my team and organization.</h3>
+# About Me
 
-- 🌱 I’m currently learning **Flutter**
-
+- Junior Flutter Developer
+- 2024 ECPC Finalist
+- Computer Science Student (Grade 4)
+- Computer Science Enthusiast
 - 👨‍💻 All of my projects are available **[here](https://github.com/a7medjamal?tab=repositories)**
-
 - 📫 How to reach me **ahmedjmal20003@gmail.com**
-
 - 📄 Know about my experiences at **[My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
