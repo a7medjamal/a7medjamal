@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://twitter.com/a7med_jamal_211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/a7medjamalsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="30" width="40"/></a>
- <a href="https://www.codechef.com/users/a7med_jamal" target="blank" style="vertical-align: baseline;">
+ <a href="https://www.codechef.com/users/a7med_jamal" target="blank" style="vertical-align: text-buttom;">
   <img src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/4a83a2cd61c2dd1f6f06f323392ef2386c88835e/codechef.svg" alt="a7med_jamal" height="30" width="30" style="vertical-align: text-top;"/>
 </a>
   <a href="https://codeforces.com/profile/Ahmed_Jamal_Sultan" target="blank"><img align="center" src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="error_" height="30" width="40" /></a>
