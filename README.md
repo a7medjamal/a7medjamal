@@ -14,18 +14,20 @@
 
 - 📄 Know about my experiences at [My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/a7med_jamal_211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/a7medjamalsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="30" width="40"/></a>
- <a href="https://www.codechef.com/users/a7med_jamal" target="blank" style="vertical-align: buttom;">
-  <img src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/4a83a2cd61c2dd1f6f06f323392ef2386c88835e/codechef.svg" alt="a7med_jamal" height="30" width="30" style="vertical-align: text-top;"/>
-</a>
-  <a href="https://codeforces.com/profile/Ahmed_Jamal_Sultan" target="blank"><img align="center" src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="error_" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ahmedjmal20003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="30" width="40" /></a>
-  <a href="https://discord.com/users/a7med_jamal_sultan" target="blank"><img align="center" src="https://gist.githubusercontent.com/a7medjamal/7c06ffa00e8de0325c4bc87c3b530b7c/raw/3a47ddaa22409de7fa31d9891815e63e67507a77/discord.svg" alt="a7med_jamal_sultan" height="30" width="40" /></a>
-</p>
-
+<div align="left">
+  <img href="https://twitter.com/a7med_jamal_211" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30"  />
+  <img width="12" />
+  <img href="https://linkedin.com/in/a7medjamalsultan" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7medjamalsultan" height="30"  />
+  <img width="12" />
+  <img href="https://www.codechef.com/users/a7med_jamal" src="https://gist.githubusercontent.com/a7medjamal/978cd504df4e8706a0072873d1b6dbfe/raw/4a83a2cd61c2dd1f6f06f323392ef2386c88835e/codechef.svg" alt="a7med_jamal" height="30"  />
+  <img width="12" />
+  <img href="https://codeforces.com/profile/Ahmed_Jamal_Sultan" src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="error_" height="30"  />
+  <img width="12" />
+  <img href="https://www.leetcode.com/ahmedjmal20003" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedjmal20003" height="30"  />
+  <img width="12" />
+  <img href="https://discord.com/users/a7med_jamal_sultan" src="https://gist.githubusercontent.com/a7medjamal/7c06ffa00e8de0325c4bc87c3b530b7c/raw/3a47ddaa22409de7fa31d9891815e63e67507a77/discord.svg" alt="a7med_jamal_sultan" height="30"  />
+  <img width="12" />
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
