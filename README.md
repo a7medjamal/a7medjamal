@@ -2,7 +2,7 @@
   <a href="https://github.com/a7medjamal">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Jamal+Sultan;Welcome+to+my+github+profile+%F0%9F%98%8A" alt="Typing SVG"/>      </a>
 </p>
--
+
 <h3 align="left">I'm a Mobile Application Developer and a final-year Computer Science student, I specialize in building innovative, user-friendly mobile solutions. With certifications in Flutter Development, I have a strong foundation in cross-platform app development. Additionally, my experience in competitive programming has sharpened my problem-solving skills and algorithmic thinking. I am passionate about exploring new technologies, staying ahead of industry trends, and continuously improving my skills. I aim to grow as a developer and contribute meaningfully to my team and organization.</h3>
 
 - 🌱 I’m currently learning **Flutter**
