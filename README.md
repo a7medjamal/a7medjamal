@@ -14,6 +14,7 @@
 
 - 📄 Know about my experiences at [My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)
 
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <img href="https://twitter.com/a7med_jamal_211" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30"  />
   <img width="12" />
