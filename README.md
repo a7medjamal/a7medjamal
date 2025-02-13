@@ -14,8 +14,8 @@
 
 - 📄 Know about my experiences at **[My Resume](https://drive.google.com/file/d/1bOgzZe_495E358qfYZ3e09p11d4cZP6n/view?usp=drivesdk)**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
   <a href="https://twitter.com/a7med_jamal_211" target="" style="border: none; outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med_jamal_211" height="30" style="border: none; outline: none;" />
   </a>
@@ -47,8 +47,8 @@
   <img width="12" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
   <a href="https://www.w3schools.com/cpp/" target="" style="border: none; outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30" style="border: none; outline: none;" />
   </a>
