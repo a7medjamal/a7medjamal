@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/a7medjamal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=DFA330&background=FFFFFF00&center=true&multiline=true&width=436&height=70&lines=Hi+👋%2C+I'm+Ahmed+Jamal+Sultan;Welcome+to+my+github+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&width=436&height=70&lines=Hi+👋%2C+I'm+Ahmed+Jamal+Sultan;Welcome+to+my+github+profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   <img width="12" />
   
   <a href="https://codeforces.com/profile/Ahmed_Jamal_Sultan" target="" style="border: none; outline: none; text-decoration: none;">
-    <img src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="error_" height="30" style="border: none; outline: none;" />
+    <img src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="Ahmed_Jamal_Sultan" height="30" style="border: none; outline: none;" />
   </a>
   <img width="12" />
   
