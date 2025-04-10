@@ -99,10 +99,6 @@
   </a>
   <img width="12" />
   
-  <a href="https://postman.com" target="" style="border: none; outline: none; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30" style="border: none; outline: none;" />
-  </a>
-  <img width="12" />
   
   <a href="https://www.python.org" target="" style="border: none; outline: none; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" style="border: none; outline: none;" />
