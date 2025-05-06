@@ -69,10 +69,7 @@
   </a>
   <img width="12" />
   
-  <a href="https://firebase.google.com/" target="" style="border: none; outline: none; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30" style="border: none; outline: none;" />
-  </a>
-  <img width="12" />
+  
   
   <a href="https://flutter.dev" target="" style="border: none; outline: none; text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="30" style="border: none; outline: none;" />
