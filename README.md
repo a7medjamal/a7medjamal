@@ -12,7 +12,7 @@
 - 💻 **Computer Science Enthusiast**
 - 📂 **All my projects are available **[here](https://github.com/a7medjamal?tab=repositories)****
 - 📫 How to reach me: **ahmedjmal20003@gmail.com**
-- 📄 Know about my experiences: **[CV](https://drive.google.com/file/d/1_kyRz-RwJWFX4dnuDX-YCRmVmoQIqa3l/view)**
+- 📄 Know about my experiences: **[CV](https://drive.google.com/file/d/1mem5FpmHkFjiwI17wcq-0E3sisyQkqLB/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: left;">
