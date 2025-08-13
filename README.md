@@ -7,7 +7,7 @@
 # 💡 About Me
 
 - 🧑‍💻 **Junior Flutter Developer**
-- 🏆 **2024 ECPC Finalist**
+- 🏆 **ECPC Finalist '24**
 - 🎓 **Computer Science Graduate with a Bachelor's Degree**
 - 💻 **Computer Science Enthusiast**
 - 📂 **All my projects are available **[here](https://github.com/a7medjamal?tab=repositories)****
