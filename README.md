@@ -10,6 +10,7 @@
 - 🏆 **ECPC Finalist '24**
 - 🎓 **Computer Science Graduate with a Bachelor's Degree**
 - 💻 **Computer Science Enthusiast**
+- 🎓 **Expert @Codeforces**
 - 📂 **All my projects are available **[here](https://github.com/a7medjamal?tab=repositories)****
 - 📫 How to reach me: **ahmedjmal20003@gmail.com**
 - 📄 Know about my experiences: **[CV](https://drive.google.com/file/d/1_vp9eZCk-kfUEv6VfSz9l2dTCUr_mQNg/view)**
