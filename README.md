@@ -10,7 +10,6 @@
 - 🏆 **ECPC Finalist '24**  
 - 🎓 **Computer Science Graduate (B.Sc.)**  
 - 💻 **Computer Science Enthusiast**  
-- <img src="https://gist.githubusercontent.com/a7medjamal/d00caccffff9dea132c6ef2f24be2209/raw/bdb4fb139fa6687b90a35ad70ec7c030900f7744/codeforces.svg" alt="Codeforces" height="15" width="15" /> **[Codeforces Expert](https://codeforces.com/profile/Ahmed_Jamal_Sultan)**  
 - 📂 All my projects are available on **[GitHub](https://github.com/a7medjamal?tab=repositories)**  
 - 📫 Reach me at: **ahmedjmal20003@gmail.com**  
 - 📄 Know more about my experiences: **[My CV](https://drive.google.com/file/d/1_vp9eZCk-kfUEv6VfSz9l2dTCUr_mQNg/view)**  
