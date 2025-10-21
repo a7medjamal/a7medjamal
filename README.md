@@ -6,8 +6,8 @@
 - 💻 **Computer Science Enthusiast**  
 - 📂 All my projects are available on **[GitHub](https://github.com/a7medjamal?tab=repositories)**  
 - 📫 Reach me at: **ahmedjmal20003@gmail.com**  
-- 📄 Know more about my experiences: **[My CV]([https://drive.google.com/file/d/1_vp9eZCk-kfUEv6VfSz9l2dTCUr_mQNg/view](https://drive.google.com/file/d/12Dazi8lb9KjzSizBA-ItSuXffEKIYC2x/view?usp=sharing])**  
-
+- 📄 Know more about my experiences: **[My CV](https://drive.google.com/file/d/12Dazi8lb9KjzSizBA-ItSuXffEKIYC2x/view?usp=sharing)**
+  
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: left;">
