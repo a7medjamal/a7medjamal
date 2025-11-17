@@ -50,7 +50,6 @@
 ## 📫 Contact
 
 * Email: [ahmedjmal20003@gmail.com](mailto:ahmedjmal20003@gmail.com)
-* GitHub: [https://github.com/a7medjamal](https://github.com/a7medjamal)
 
 ---
 
@@ -70,4 +69,3 @@ flutter run
 
 > Each project has its own README with setup steps (e.g., Firebase config, local .env, API keys).
 
----
