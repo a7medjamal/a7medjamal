@@ -15,7 +15,7 @@
 * 💻 **Computer Science Enthusiast**
 * 📂 All my projects are available on my GitHub: [a7medjamal](https://github.com/a7medjamal?tab=repositories)
 * 📫 Reach me at: **[ahmedjmal20003@gmail.com](mailto:ahmedjmal20003@gmail.com)**
-* 📄 More details in my CV: [View CV](https://drive.google.com/file/d/12Dazi8lb9KjzSizBA-ItSuXffEKIYC2x/view?usp=sharing)
+* 📄 More details in my CV: [View CV](https://drive.google.com/file/d/1ZValuJxs-O-Z-UGyBrhlbVY7WhJz6krr/view?usp=sharing)
 
 ---
 
