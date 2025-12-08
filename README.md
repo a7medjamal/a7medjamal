@@ -11,7 +11,6 @@
 * 🧑‍💻 **Junior Flutter Developer**
 * 🏆 **ECPC Finalist '24**
 * 🎓 **Computer Science Graduate (B.Sc.)**
-* 🎓 **Computer Science Master's Student (M.Sc.)**
 * 💻 **Computer Science Enthusiast**
 * 📂 All my projects are available on my GitHub: [a7medjamal](https://github.com/a7medjamal?tab=repositories)
 * 📫 Reach me at: **[ahmedjmal20003@gmail.com](mailto:ahmedjmal20003@gmail.com)**
