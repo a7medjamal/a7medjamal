@@ -1,6 +1,6 @@
 # Ahmed Jamal Sultan
 
-> Junior Flutter Developer | Computer Science Master's Student | ECPC Finalist '24
+> Junior Flutter Developer | Computer Science Graduate | ECPC Finalist '24
 
 [![GitHub followers](https://img.shields.io/github/followers/a7medjamal?label=follow\&style=social)](https://github.com/a7medjamal)
 
