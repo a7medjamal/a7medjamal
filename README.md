@@ -39,13 +39,6 @@
 
 ---
 
-## 📚 Education
-
-* **B.Sc. Computer Science**
-* **M.Sc. Computer Science** (in progress)
-
----
-
 ## 📫 Contact
 
 * Email: [ahmedjmal20003@gmail.com](mailto:ahmedjmal20003@gmail.com)
